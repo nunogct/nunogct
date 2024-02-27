@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Nuno 👋
+- 🔭 I’m currently working on Minho University
+- 🌱 I’m currently learning Compilers and SoC design
 
 <!--
 **nunogct/nunogct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
